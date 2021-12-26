@@ -1,0 +1,14 @@
+package TestRunner;
+
+
+import io.cucumber.junit.CucumberOptions;
+
+
+
+@CucumberOptions(
+		{features= {}})
+public class AmazonTestRunner {
+
+	
+	
+}

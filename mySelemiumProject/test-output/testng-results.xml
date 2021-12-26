@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="43404" started-at="2021-02-03T21:08:04 IST" finished-at="2021-02-03T21:08:48 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="43404" started-at="2021-02-03T21:08:04 IST" finished-at="2021-02-03T21:08:48 IST">
+      <class name="com.mySelemiumProject.testFile.DemoTestClass">
+        <test-method status="PASS" signature="testSetup()[pri:0, instance:com.mySelemiumProject.testFile.DemoTestClass@4b1c1ea0]" name="testSetup" is-config="true" duration-ms="14228" started-at="2021-02-03T21:08:04 IST" finished-at="2021-02-03T21:08:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetup -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.mySelemiumProject.testFile.DemoTestClass@4b1c1ea0]" name="openBrowser" is-config="true" duration-ms="28296" started-at="2021-02-03T21:08:19 IST" finished-at="2021-02-03T21:08:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="selectMobileTestCase()[pri:0, instance:com.mySelemiumProject.testFile.DemoTestClass@4b1c1ea0]" name="selectMobileTestCase" duration-ms="60" started-at="2021-02-03T21:08:47 IST" description="This test case selects mobile" finished-at="2021-02-03T21:08:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectMobileTestCase -->
+        <test-method status="PASS" signature="afterMobileSelection()[pri:0, instance:com.mySelemiumProject.testFile.DemoTestClass@4b1c1ea0]" name="afterMobileSelection" is-config="true" duration-ms="17" started-at="2021-02-03T21:08:47 IST" finished-at="2021-02-03T21:08:47 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMobileSelection -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:com.mySelemiumProject.testFile.DemoTestClass@4b1c1ea0]" name="quitBrowser" is-config="true" duration-ms="739" started-at="2021-02-03T21:08:47 IST" finished-at="2021-02-03T21:08:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- com.mySelemiumProject.testFile.DemoTestClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

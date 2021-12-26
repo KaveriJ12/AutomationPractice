@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.mySelemiumProject.testFile.DemoTestClass">
+        <methods>
+          <include name="selectMobileTestCase"/>
+          <include name="openBrowser"/>
+          <include name="testSetup"/>
+        </methods>
+      </class> <!-- com.mySelemiumProject.testFile.DemoTestClass -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
