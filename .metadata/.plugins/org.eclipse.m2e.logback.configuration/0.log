@@ -3671,3 +3671,4 @@ org.eclipse.core.runtime.CoreException: Could not read maven project
 2021-12-24 16:11:14,106 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\user\eclipse-workspace\CucumberDemo\src\main\resources
 2021-12-24 16:11:14,108 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-12-24 16:11:14,109 [Worker-71: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\user\eclipse-workspace\CucumberDemo\src\test\resources
+2021-12-27 09:55:25,063 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
